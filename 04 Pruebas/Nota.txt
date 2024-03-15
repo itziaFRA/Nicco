@@ -1,0 +1,1 @@
+Documento que describe los incidentes en el sistema.
